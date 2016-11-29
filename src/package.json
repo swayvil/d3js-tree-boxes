@@ -1,0 +1,14 @@
+{
+  "name": "d3js-tree-boxes",
+  "version": "0.0.1",
+  "description": "D3.js collapsing tree with boxes",
+  "author": "swayvil@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swayvil/d3js-tree-boxes.git"
+  },
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "license": "GNU GPL v3"
+}
